@@ -1,5 +1,8 @@
 # Movie-recomendation-system
 
+#Dataset link
+https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 # Models
 # Cosine similarity-pkl file
 https://drive.google.com/file/d/1sosCOg-vdyPWEEExTsqSu2qXRNug3qWM/view
